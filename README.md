@@ -1,3 +1,5 @@
+## Adjustments are work in progress!
+
 # NSPanel Lovelace UI
 
 If you like this project consider buying me a pizza 🍕 <a href="https://paypal.me/joBr99" target="_blank"><img src="https://img.shields.io/static/v1?logo=paypal&label=&message=donate&color=slategrey"></a>
